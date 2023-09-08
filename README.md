@@ -14,9 +14,11 @@
 - Dusting off my C and C++ knowledge 🧹
 
 **📚 Learning Journey:**
+
 I'm currently diving into the worlds of Lua, Elixir, Haskell, Rust, and rekindling my expertise in C++. These languages fascinate me, and I'm excited to expand my programming horizons.
 
 **📫 Let's Connect:**
+
 I'm always up for tech discussions, sharing knowledge, and building a thriving developer network.
 
 Thanks for stopping by my GitHub profile! 👨‍💻✨
